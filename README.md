@@ -4,9 +4,15 @@ This is a CRM admin dashboard for managing itinerary, vendor, and customer leads
 
 Will write more on this in time. For now, here are some snapshots of the current version.
 
+## Itinerary Creation Module
+
 ![Travel-CRM](https://i.imghippo.com/files/Xz2598sE.png)
 
+## Vendor Day-wise Rates Entry Module
+
 ![Travel-CRM](https://i.imghippo.com/files/LhfN8242rNo.png)
+
+## Leads Entry Module
 
 ![Travel-CRM](https://i.imghippo.com/files/xMVU4325tY.png)
 
