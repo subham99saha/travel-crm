@@ -30,7 +30,7 @@ Will write more on this in time. For now, here are some snapshots of the current
 
 ![Travel-CRM](https://i.imghippo.com/files/gFR7242M.png)
 
-**Requirements Sub Module**
+## Requirements Sub Module
 
 ![Travel-CRM](https://i.imghippo.com/files/DQ8556mM.png)
 
