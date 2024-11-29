@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "menuName": "Super Admin",
+    "parentId": 0,
+    "menuIcon": "Users",
+    "menuPathName": null,
+    "menuTitle": "Super Admin",
+    "isActive": "Y",
+    "createdAt": "2023-12-14T13:33:35.000Z",
+    "updatedAt": "2023-12-14T13:33:35.000Z",
+    "VIEW": 1,
+    "CREATE": 0,
+    "UPDATE": 0,
+    "DELETE": 0
+  },
+  {
+    "id": 2,
+    "menuName": "Manage User",
+    "parentId": 1,
+    "menuIcon": "Database",
+    "menuPathName": "/super-user",
+    "menuTitle": "Manage User",
+    "isActive": "Y",
+    "createdAt": "2023-12-14T13:33:35.000Z",
+    "updatedAt": "2023-12-14T13:33:35.000Z",
+    "VIEW": 1,
+    "CREATE": 1,
+    "UPDATE": 1,
+    "DELETE": 1
+  },
+  {
+    "id": 3,
+    "menuName": "Permissions",
+    "parentId": 0,
+    "menuIcon": "Lock",
+    "menuPathName": null,
+    "menuTitle": "Permission",
+    "isActive": "Y",
+    "createdAt": "2023-12-14T13:33:35.000Z",
+    "updatedAt": "2023-12-14T13:33:35.000Z",
+    "VIEW": 1,
+    "CREATE": 0,
+    "UPDATE": 0,
+    "DELETE": 0
+  },
+  {
+    "id": 4,
+    "menuName": "Manage Permission",
+    "parentId": 3,
+    "menuIcon": "Lock",
+    "menuPathName": "/permissions",
+    "menuTitle": "Manage Permission",
+    "isActive": "Y",
+    "createdAt": "2023-12-14T13:33:35.000Z",
+    "updatedAt": "2023-12-14T13:33:35.000Z",
+    "VIEW": 1,
+    "CREATE": 1,
+    "UPDATE": 1,
+    "DELETE": 1
+  }
+]

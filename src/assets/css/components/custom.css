@@ -1,0 +1,13 @@
+
+.add_permission_menu_box {
+    margin-top: 0 !important;
+}
+.table_section thead {
+    background: #fb923c;
+    color: #ffffff;
+    padding: 10px 0;
+    border-radius: 0 5px 5px 0;
+}
+.table_section thead tr th {
+    padding: 20px 17px;
+}

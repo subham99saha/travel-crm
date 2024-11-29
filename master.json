@@ -1,0 +1,290 @@
+[ {
+    "icon": "Users",
+    "title": "Super Admin",
+    "subMenu": [
+      {
+        "icon": "Database",
+        "pathname": "/super-user",
+        "title": "Manage User",
+      },
+    ],
+  },
+  {
+    "icon": "MapPin",
+    "title": "Itinerary",
+    "subMenu": [
+      {
+        "icon": "ChevronsRight",
+        "title": "Manage Itinerary",
+        "subMenu": [
+          {
+            "icon": "Coffee",
+            "pathname": "/itinerary",
+            "title": "All Itinerary",
+          },
+          {
+            "icon": "Coffee",
+            "pathname": "/add-itinerary",
+            "title": "Add Itineraries",
+          },
+          {
+            "icon": "Coffee",
+            "pathname": "",
+            "title": "Draft-Itinerary",
+          },
+        ],
+      },
+      {
+        "icon": "ChevronsRight",
+        "title": "Proposal",
+        "subMenu": [
+          {
+            "icon": "Coffee",
+            "pathname": "/sent-proposal",
+            "title": "Sent Proposals",
+          },
+          {
+            "icon": "Coffee",
+            "pathname": "/draft-proposal",
+            "title": "Draft Proposals",
+          },
+        ],
+      },
+      {
+        "icon": "ChevronsRight",
+        "title": "Library",
+        "subMenu": [
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-activity",
+            "title": "Activity",
+          },
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-hotel",
+            "title": "Hotel",
+          },
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-train",
+            "title": "Train",
+          },
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-cruise",
+            "title": "Cruise",
+          },
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-flight",
+            "title": "Flight",
+          },
+          {
+            "icon": "Truck",
+            "pathname": "/vendor-transport",
+            "title": "Transport",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    "icon": "Database",
+    "title": "Rate & Inventory",
+    "subMenu": [
+      {
+        "icon": "Layout",
+        "pathname": "/vendor-hotel-inventory",
+        "title": "Hotel",
+      },
+    ],
+  },
+  {
+    "icon": "Users",
+    "title": "Clients",
+    "subMenu": [
+      {
+        "icon": "Database",
+        "pathname": "/client-bc",
+        "title": "Manage B2C Client",
+      },
+      {
+        "icon": "Database",
+        "pathname": "/client-bb",
+        "title": "Manage B2B Client",
+      },
+      {
+        "icon": "Database",
+        "pathname": "/client-corporate",
+        "title": "Manage Corporate Client",
+      },
+    ],
+  },
+  {
+    "icon": "User",
+    "title": "Vendor/Supplier",
+    "subMenu": [
+      {
+        "icon": "Database",
+        "pathname": "/vendor",
+        "title": "Manage Vendor",
+      },
+      {
+        "icon": "Home",
+        "pathname": "/vendor/hotel",
+        "title": "Hotel",
+      },
+      {
+        "icon": "ArrowLeftCircle",
+        "pathname": "/vendor/train",
+        "title": "Train",
+      },
+      {
+        "icon": "Voicemail",
+        "pathname": "/vendor/transport",
+        "title": "Transport",
+      },
+      {
+        "icon": "PenTool",
+        "pathname": "/vendor/activity",
+        "title": "Activity",
+      },
+      {
+        "icon": "Minimize2",
+        "pathname": "/vendor/travel-agent",
+        "title": "Travel Agent",
+      },
+      {
+        "icon": "Database",
+        "pathname": "/vendor/tourisim-marketing",
+        "title": "Tourisim Marketing",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/vendor/driver",
+        "title": "Driver",
+      },
+      {
+        "icon": "Umbrella",
+        "pathname": "/vendor/tour-guide",
+        "title": "Tour Guide",
+      },
+      {
+        "icon": "ArrowRightCircle",
+        "pathname": "/vendor/bus",
+        "title": "Bus",
+      },
+      {
+        "icon": "Camera",
+        "pathname": "/vendor/restaurant-cafe",
+        "title": "Restaurant Cafe",
+      },
+      {
+        "icon": "Cast",
+        "pathname": "/vendor/tour-operator",
+        "title": "Tour Operator",
+      },
+      {
+        "icon": "Clipboard",
+        "pathname": "/vendor/valley-camping",
+        "title": "Valley Camping",
+      },
+      {
+        "icon": "Film",
+        "pathname": "/vendor/massage-beauty-therapy",
+        "title": "Massage Beauty Therapy",
+      },
+      {
+        "icon": "Watch",
+        "pathname": "/vendor/tarot-reader",
+        "title": "Tarot Reader",
+      },
+      {
+        "icon": "Loader",
+        "pathname": "/vendor/travel-agency",
+        "title": "Travel Agency",
+      },
+      {
+        "icon": "Gitlab",
+        "pathname": "/vendor/safari",
+        "title": "Safari",
+      },
+    ],
+  },
+  {
+    "icon": "User",
+    "title": "Employee",
+    "subMenu": [
+      {
+        "icon": "Database",
+        "pathname": "/employee",
+        "title": "Manage Employee",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/super-department",
+        "title": "Manage Department",
+      },
+    ],
+  },
+  {
+    "icon": "Gem",
+    "title": "CRM Utility",
+    "subMenu": [
+      {
+        "icon": "Database",
+        "pathname": "/itinerary-product",
+        "title": "Itinerary Product",
+      },
+      {
+        "icon": "Radio",
+        "pathname": "/travel-type",
+        "title": "Travel Type",
+      },
+      {
+        "icon": "Phone",
+        "pathname": "/lead-source",
+        "title": "Lead Source",
+      },
+      {
+        "icon": "Currency",
+        "pathname": "/currency",
+        "title": "Currency",
+      },
+      {
+        "icon": "Book",
+        "pathname": "/travel-requirement",
+        "title": "Travel Requirement",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/country",
+        "title": "Country",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/state",
+        "title": "State",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/city",
+        "title": "City",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/airline",
+        "title": "Airline",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/transport-type",
+        "title": "Transport Type",
+      },
+      {
+        "icon": "Truck",
+        "pathname": "/activity-type",
+        "title": "Activity Type",
+      },
+    ]
+  }
