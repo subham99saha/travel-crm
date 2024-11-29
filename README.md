@@ -8,6 +8,14 @@ Will write more on this in time. For now, here are some snapshots of the current
 
 ![Travel-CRM](https://i.imghippo.com/files/Xz2598sE.png)
 
+![Travel-CRM](https://i.imghippo.com/files/aGyT7539MGo.png)
+
+![Travel-CRM](https://i.imghippo.com/files/jQn8470pE.png)
+
+![Travel-CRM](https://i.imghippo.com/files/wTZ4166a.png)
+
+![Travel-CRM](https://i.imghippo.com/files/oYXB3545xY.png)
+
 ## Vendor Day-wise Rates Entry Module
 
 ![Travel-CRM](https://i.imghippo.com/files/LhfN8242rNo.png)
@@ -44,11 +52,3 @@ Will write more on this in time. For now, here are some snapshots of the current
 ![Travel-CRM](https://i.imghippo.com/files/vY3148Ls.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/Ua1891jCo.png)
-
-![Travel-CRM](https://i.imghippo.com/files/oYXB3545xY.png)
-
-![Travel-CRM](https://i.imghippo.com/files/jQn8470pE.png)
-
-![Travel-CRM](https://i.imghippo.com/files/wTZ4166a.png)
-
-![Travel-CRM](https://i.imghippo.com/files/aGyT7539MGo.png)
