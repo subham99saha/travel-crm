@@ -22,20 +22,21 @@ Will write more on this in time. For now, here are some snapshots of the current
 
 ## Leads Entry Module
 
-![Travel-CRM](https://i.imghippo.com/files/xMVU4325tY.png)
+![Travel-CRM](https://i.imghippo.com/files/jr1497gcE.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/Lybm7029XK.png)
 
-![Travel-CRM](https://i.imghippo.com/files/jr1497gcE.png)
+![Travel-CRM](https://i.imghippo.com/files/xMVU4325tY.png)
 
+![Travel-CRM](https://i.imghippo.com/files/gFR7242M.png)
+
+### Requirements Sub Module
 
 ![Travel-CRM](https://i.imghippo.com/files/DQ8556mM.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/CNvp8943iXg.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/Cj5913Fzw.png)
-
-![Travel-CRM](https://i.imghippo.com/files/gFR7242M.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/byU9822Xck.png)
 
