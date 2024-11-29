@@ -30,15 +30,21 @@ Will write more on this in time. For now, here are some snapshots of the current
 
 ![Travel-CRM](https://i.imghippo.com/files/gFR7242M.png)
 
-### Requirements Sub Module
+**Requirements Sub Module**
 
 ![Travel-CRM](https://i.imghippo.com/files/DQ8556mM.png)
+
+![Travel-CRM](https://i.imghippo.com/files/Ua1891jCo.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/CNvp8943iXg.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/Cj5913Fzw.png)
 
+## Leads Management Module
+
 ![Travel-CRM](https://i.imghippo.com/files/byU9822Xck.png)
+
+![Travel-CRM](https://i.imghippo.com/files/vY3148Ls.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/nVu4081f.png)
 
@@ -49,7 +55,3 @@ Will write more on this in time. For now, here are some snapshots of the current
 ![Travel-CRM](https://i.imghippo.com/files/Ebja7941DM.png)
 
 ![Travel-CRM](https://i.imghippo.com/files/GXWe3965CGI.png)
-
-![Travel-CRM](https://i.imghippo.com/files/vY3148Ls.png)
-
-![Travel-CRM](https://i.imghippo.com/files/Ua1891jCo.png)
